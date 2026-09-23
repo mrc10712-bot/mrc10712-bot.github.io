@@ -3,7 +3,7 @@
 
 <html>
  <head>
- <title>Edwardsburg Casey's Gas Station</title
+ <title>Edwardsburg Casey's Gas Station</title>
 </head>
 
 <body>
